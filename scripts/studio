@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /home/user/programming/android-studio/bin/
+/usr/bin/sudo exit
+sudo ./studio.sh&

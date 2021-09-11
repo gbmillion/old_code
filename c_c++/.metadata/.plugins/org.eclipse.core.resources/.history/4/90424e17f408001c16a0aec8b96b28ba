@@ -1,0 +1,18 @@
+/*
+ ============================================================================
+ Name        : helloworld.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main() {
+	int error_code;
+	error_code = (getchar() != EOF);
+	printf("Hello World!%d",error_code); /* prints !!!Hello World!!! */
+	return 0;
+}

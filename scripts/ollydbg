@@ -1,0 +1,3 @@
+#!/bin/sh
+wine /home/user/.wine/drive_c/Program\ Files/ollydbg/OLLYDBG.EXE
+

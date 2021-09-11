@@ -1,0 +1,16 @@
+LaunchTargetManager/configs/encrypt_file=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/game=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/helloworld=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/sniffer\ (1)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:sniffer,org.eclipse.launchbar.core.descriptorType.default\:sniffer (1),org.eclipse.launchbar.core.descriptorType.default\:helloworld,org.eclipse.launchbar.core.descriptorType.default\:encrypt_file,org.eclipse.launchbar.core.descriptorType.default\:game
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:encrypt_file/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:game/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:helloworld/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:helloworld/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:sniffer\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:sniffer/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:sniffer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

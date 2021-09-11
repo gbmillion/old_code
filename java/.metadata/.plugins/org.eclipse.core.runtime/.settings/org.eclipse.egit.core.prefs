@@ -1,0 +1,5 @@
+GitRepositoriesView.GitDirectories=/home/user/programming/eclipse2/dungeon_crawl/.git\:
+GitRepositoriesView.GitDirectories.relative=dungeon_crawl/.git\:
+core_defaultRepositoryDir=/home/user/programming/eclipse2
+core_preferredMergeStrategy=jgit-default-mergeStrategy
+eclipse.preferences.version=1

@@ -1,0 +1,15 @@
+10:18:46 **** Incremental Build of configuration Debug for project game ****
+make all 
+Building file: ../src/game.c
+Invoking: Cross GCC Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/game.d" -MT"src/game.o" -o "src/game.o" "../src/game.c"
+Finished building: ../src/game.c
+ 
+Building target: game
+Invoking: Cross GCC Linker
+gcc  -o "game"  ./src/game.o   -lmcrypt
+Finished building target: game
+ 
+
+10:18:47 Build Finished. 0 errors, 0 warnings. (took 666ms)
+

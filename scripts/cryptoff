@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo umount ~/crypt
+sudo cryptsetup luksClose crypt

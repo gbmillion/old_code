@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="526"/>
+		<item key="DIALOG_Y_ORIGIN" value="292"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="itemdb"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="itemdb"/>
+			<item value="decrypt"/>
+			<item value="kfile"/>
+			<item value="item_"/>
+			<item value="item_db"/>
+			<item value="iv_size"/>
+			<item value="mcrypt_module_open"/>
+			<item value="Invalid argument provided"/>
+			<item value="invalid"/>
+			<item value="buff"/>
+			<item value="xts"/>
+			<item value="crypt"/>
+			<item value="enc"/>
+			<item value="chop"/>
+			<item value=" i"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="630"/>
+		<item key="DIALOG_Y_ORIGIN" value="148"/>
+		<item key="DIALOG_WIDTH" value="346"/>
+		<item key="DIALOG_HEIGHT" value="437"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|10.0|0|GTK|1|"/>
+	</section>
+</section>

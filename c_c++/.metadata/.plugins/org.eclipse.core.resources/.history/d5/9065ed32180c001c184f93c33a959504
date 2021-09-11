@@ -1,0 +1,125 @@
+/*
+ * encrypt_file.c
+ *
+ *  Created on: Sep 2, 2021
+ *      Author: user
+ */
+#include <string.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+#include <mcrypt.h>
+int encrypt();
+int decrypt();
+void main(int argc, char *argv[]){
+	if((strcmp( argv[1], "d")) == 0 ){
+		decrypt();
+	}
+	if((strcmp( argv[1], "e")) == 0 ){
+		encrypt();
+	}
+}
+int decrypt(){
+	;//  int mdecrypt_generic( MCRYPT td, void *ciphertext, int len);
+
+	unsigned char *key;
+	key = malloc(16);
+	MCRYPT crypt;
+	int i=0,iv_size=0,key_size=0,c,err=0;
+	unsigned char *buff;
+	const char* fname = "output.txt";
+	const char* fname2 = "decrypted.txt";
+
+	crypt = mcrypt_module_open("twofish", NULL, "cfb", NULL);
+	iv_size = (mcrypt_enc_get_iv_size) (crypt);
+	key_size = (mcrypt_enc_get_key_size) (crypt);
+
+	FILE * kfp = fopen("key.txt","r");
+	i = fread( key, key_size, 1,kfp);
+	if(i<=0)exit(1);
+	fclose(kfp);
+
+	buff = malloc(iv_size);
+	mcrypt_generic_init( crypt, key, key_size, buff);
+	if (crypt == MCRYPT_FAILED) exit(1);
+
+	FILE * fp = fopen(fname, "r");
+    if(!fp) {
+        perror("Failed to load input file.\n");
+        exit(1);
+    }
+	FILE * fp2 = fopen(fname2, "w");
+    if(!fp2) {
+        perror("Failed to load output file.\n");
+        exit(1);
+    }
+    while ((c = fgetc(fp)) != EOF) {
+    	printf("%d:",c);
+    	err = mdecrypt_generic( crypt, &c, 1);
+    	printf("%d\n",c);
+    	fputc(c,fp2);
+    	if (err != 0)exit(1);
+    }
+    fclose(fp2);
+    fclose(fp);
+    //mcrypt_generic_end(crypt);
+    //mcrypt_module_close(crypt);
+
+	return 0;
+}
+int encrypt (){
+	unsigned char *key;
+	key = malloc(16);
+	time_t t;
+	MCRYPT crypt;
+	int i=0,iv_size=0,key_size=0,c,err=0;
+	unsigned char *buff;
+	const char* fname = "input.txt";
+	const char* fname2 = "output.txt";
+
+	crypt = mcrypt_module_open("twofish", NULL, "cfb", NULL);
+	iv_size = (mcrypt_enc_get_iv_size) (crypt);
+	key_size = (mcrypt_enc_get_key_size) (crypt);
+	srand((unsigned) time(&t));
+	for (i=0; i < key_size;i++){
+		key[i] = rand() % 127;
+	}
+
+	buff = malloc(iv_size);
+	mcrypt_generic_init( crypt, key, key_size, buff);
+	if (crypt == MCRYPT_FAILED) exit(1);
+
+	printf("The key is: %s\n",key);
+	FILE* fp = fopen("key.txt", "w");
+	if(!fp) {
+		perror("Failed to open key file.\n");
+		exit(1);
+	}
+	i = fwrite( key, key_size,  1, fp );
+	if (i<0)exit (1);
+    fclose(fp);
+
+	fp = fopen(fname, "r");
+    if(!fp) {
+        perror("Failed to load input file.\n");
+        exit(1);
+    }
+	FILE * fp2 = fopen(fname2, "w");
+    if(!fp2) {
+        perror("Failed to load output file.\n");
+        exit(1);
+    }
+    while ((c = fgetc(fp)) != EOF) {
+    	printf("%d:",c);
+    	err = mcrypt_generic( crypt, &c, 1);
+    	printf("%d\n",c);
+    	fputc(c,fp2);
+    	if (err != 0)exit(1);
+    }
+    fclose(fp2);
+    fclose(fp);
+    mcrypt_generic_end(crypt);
+    mcrypt_module_close(crypt);
+
+	return 0;
+}

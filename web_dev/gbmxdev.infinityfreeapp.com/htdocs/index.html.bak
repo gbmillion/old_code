@@ -1,0 +1,1270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>gbm X dev</title>
+    <link rel="stylesheet" href="fontawesome-5.5/css/all.min.css">
+    <link rel="stylesheet" href="slick/slick.css">
+    <link rel="stylesheet" href="slick/slick-theme.css">
+    <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/tooplate-infinite-loop.css">
+  </head>
+  <body>
+    <!-- Hero section -->
+    <section id="infinite" class="text-white tm-font-big tm-parallax">
+      <!-- Navigation -->
+      <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
+        <div class="container">
+          <div class="tm-next"> <a href="#infinite" class="navbar-brand"><img src="logo.jpg"
+                alt="X" title="X" style="width: 45px; height: 27px;"> gbm X dev</a>
+          </div>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-bars navbar-toggler-icon"></i> </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item"> <a class="nav-link tm-nav-link" href="#infinite">Home</a>
+              </li>
+              <li class="nav-item"> <a class="nav-link tm-nav-link" href="#whatwedo">What
+                  We Do</a> </li>
+              <li class="nav-item"> <a class="nav-link tm-nav-link" href="#testimonials">Testimonials</a>
+              </li>
+              <li class="nav-item"> <a class="nav-link tm-nav-link" href="#gallery">Social
+                  media</a> </li>
+              <li class="nav-item"> <a class="nav-link tm-nav-link" href="#contact">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+      <div class="text-center tm-hero-text-container">
+        <div class="tm-hero-text-container-inner">
+          <h2 class="tm-hero-title">gbm X dev</h2>
+          <p class="tm-hero-subtitle"> George Million <br>
+            Freelance Computer Programmer</p>
+          <p class="tm-hero-subtitle"><a href="resume.pdf">Resume [PDF]</a></p>
+        </div>
+      </div>
+    </section>
+    <section id="whatwedo" class="tm-section-pad-top">
+      <div class="container">
+        <div class="row tm-content-box"><!-- first row -->
+          <div class="col-lg-12 col-xl-12">
+            <div class="tm-intro-text-container">
+              <h2 class="tm-text-primary mb-4 tm-section-title">Information
+                Technology</h2>
+              <p class="mb-4 tm-intro-text"> A highly competent and organized
+                systems administrator with experience of software procurement,
+                installation, administration &amp; compatibility. Possessing a
+                proven ability to assist with the day-to-day running of an IT
+                department and it’s business IT systems. Extensive knowledge of
+                monitoring and controlling data security within guidelines to
+                ensure compliance and report on possible improvements. Well
+                mannered, articulate and able to act as point of contact for
+                colleagues and external clients. Four years shell scripting and
+                two years functional &amp; object oriented programming, have
+                lead to a solid foundation in the principles need for software
+                engineering.Looking for a suitable programmer or administrator
+                position with an exciting, innovative and ambitious company that
+                offers room for progression, or individual freelance/consulting.</p>
+            </div>
+          </div>
+        </div>
+        <!-- first row -->
+        <div class="row tm-content-box"><!-- second row -->
+          <div class="col-lg-1"> <i class="far fa-3x fa-chart-bar text-center tm-icon"></i>
+          </div>
+          <div class="col-lg-5">
+            <div class="tm-intro-text-container">
+              <h2 class="tm-text-primary mb-4">Computer Programming</h2>
+              <p class="mb-4 tm-intro-text"> Programming &amp; Scripting
+                languages:</p>
+              <p class="mb-4 tm-intro-text"><a href="https://www.linkedin.com/in/gbmXdev"></a>
+              </p>
+              <div class="text-center col-12">
+                <li>C</li>
+                <li>C++</li>
+                <li>C# (2 yr exp)</li>
+                <li>Java (2 yr exp)</li>
+                <li>Perl (5 yr exp)</li>
+                <li>Bash (4 yr exp)</li>
+                <li>learning x86 &amp; arm assembly</li>
+                <br>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-1"> <i class="far fa-3x fa-comment-alt text-center tm-icon"></i>
+          </div>
+          <div class="col-lg-5">
+            <div class="tm-intro-text-container">
+              <h2 class="tm-text-primary mb-4">System &amp; Network
+                Administration</h2>
+              <p class="mb-4 tm-intro-text"> I have over 7 years in of
+                experience in administration of various types of systems and
+                networks. I have administrated various BSDs, proprietary Unixes,
+                multiple versions of windows server, and a large number of Linux
+                distributions. I have maintained and deployed a range of COTS
+                switches and routers. </p>
+            </div>
+          </div>
+        </div>
+        <!-- second row -->
+        <div class="row tm-content-box"><!-- third row -->
+          <div class="col-lg-1"> <i class="fas fa-3x fa-fingerprint text-center tm-icon"></i>
+          </div>
+          <div class="col-lg-5">
+            <div class="tm-intro-text-container">
+              <h2 class="tm-text-primary mb-4">Cyber Security</h2>
+              <p class="mb-4 tm-intro-text"> I am started a bachelors of science
+                focusing in cyber security at Southern New Hampshire University,
+                in October of 2021. I will be studying reverse engineering for
+                future employment. </p>
+              <div class="tm-continue"> <br>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-1"> <i class="fas fa-3x fa-users text-center tm-icon"></i>
+          </div>
+          <div class="col-lg-5">
+            <div class="tm-intro-text-container">
+              <h2 class="tm-text-primary mb-4">Android Development</h2>
+              <p class="mb-4 tm-intro-text"> A large part of my development for
+                the next four years will be in creating various applications to
+                sell on Google Play market. I have experience in writing java
+                &amp; C++ apps using the Android SDK.<em></em> </p>
+            </div>
+          </div>
+        </div>
+        <!-- third row --> </div>
+    </section>
+    <section id="testimonials" class="tm-section-pad-top tm-parallax-2">
+      <div class="container tm-testimonials-content">
+        <div class="row">
+          <div class="col-lg-12 tm-content-box">
+            <h2 class="text-white text-center mb-4 tm-section-title">Testimonials</h2>
+            <p class="mx-auto tm-section-desc text-center"><strong>&nbsp;You can
+                view samples of my code on my personal github.com account.</strong></p>
+            <ul style="text-align: center;">
+              <li> <strong><a href="https://github.com/gbmillion">gbmillion @
+                    github.com<br>
+                  </a></strong></li>
+              <li><strong><a href="https://www.codementor.io/@gbmxdev">Code
+                    mentor</a><a href="https://coderwall.com/gbmXdev"><br>
+                  </a></strong></li>
+              <li><strong><a href="https://coderwall.com/gbmXdev">Coderwall</a></strong></li>
+            </ul>
+            <strong> </strong>
+            <p class="mx-auto tm-section-desc text-center"><strong></strong></p>
+            <strong> </strong>
+            <div class="mx-auto tm-gallery-container tm-gallery-container-2"><strong>
+              </strong>
+              <div class="tm-testimonials-carousel">&nbsp;</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tm-bg-overlay"></div>
+    </section>
+    <section id="gallery" class="tm-section-pad-top">
+      <div class="container tm-container-gallery">
+        <div class="row">
+          <div class="text-center col-12">
+            <h2 class="tm-text-primary tm-section-title mb-4">Social Media</h2>
+            <li><a href="https://www.linkedin.com/in/gbmXdev">Linked in</a></li>
+            <li><a href="https://twitter.com/gbmxdev">Twitter</a> </li>
+            <li> <a href="https://www.facebook.com/gbmXdev/">Facebook</a> </li>
+            <li> <a href="https://www.reddit.com/user/gbmxdev/">Reddit</a> </li>
+            <li> <a href="https://www.tiktok.com/@gbmxdev">Tik Tok</a> </li>
+            <li> <a href="https://www.instagram.com/gbmxdev/">Instagram</a></li>
+            <li> <a href="https://www.youtube.com/channel/UCUhVf-LFn5KVurkIlRXTnFw">Youtube
+                channel</a> </li>
+            <li> <a href="https://www.twitch.tv/gbmxdev">Twitch</a> </li>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12" style="text-align: center;">
+            <p style="color:white;font-size:0px;"> android 12 android auto
+              android 12 beta android 12 beta 5 android 21 android studio
+              android emulator android 11 android app store android auto app
+              android auto wireless android auto not working android apps
+              android authority android airpods a android phone a android tablet
+              a android watch a android charger a android auto a android or an
+              android a android phone case a android.com/find android beta
+              android beta 12 android box android beta 5 android beam android
+              beta update android backup android box tv b android version b
+              android emoticon android b redeem code android b name android b-4
+              android b tag not working android b android b-unit android charger
+              android central android charger type android carplay android car
+              stereo android clear cache android cleaner android controller c
+              android charger c android programming c android app c android
+              compiler c android development c android studio c android api c
+              android ide android device manager android developer android data
+              recovery android disable absolute bluetooth volume android
+              definition android developer options android developer salary
+              android developer salary florida d android master d/androidruntime
+              shutting down vm d android studio d'android master free fire d
+              android 1 android d-pad android emoji android emulator for windows
+              android emulator mac android earbuds android emulator for windows
+              10 android easter egg android emulator online e android os e
+              android rom e/androidruntime fatal exception main e/androidruntime
+              fatal exception okhttp dispatcher e/androidruntime fatal exception
+              create_react_context e/androidruntime fatal exception
+              defaultdispatcher-worker-1 e/androidruntime fatal exception
+              mqt_native_modules e/androidruntime fatal exception asynctask #1
+              android file transfer android find my phone android facetime
+              android file transfer mac android flip phone android factory reset
+              android facetime app android file manager f android version f#
+              android app f android download f android store android f name
+              android f.lux android f.txt android f-stop android games android
+              go android games with controller support android google android go
+              edition android galaxy android gba emulator android game
+              controller jio android jio android phone g android box jio android
+              phone price jio android tv box jio android set jio android phone
+              price 2021 jio android box android hotspot android head unit
+              android home screen android headphones android help android hacks
+              android hard reset android hdmi adapter h android games h+ android
+              signal h+ android internet h android version android h.264 android
+              h+ instead of 4g android h name android h.264 decoder android
+              icons android interview questions android ipad android imessage
+              android ios android intent android iphone android iso i android
+              emulator i android emulator for ios mi android i android download
+              mi android tv mi android box mi android phone mi android one
+              android jones android jetpack android jelly bean android java
+              android jailbreak android jetpack compose android jones wallpaper
+              android jobs j android geox j android phone android j7 android
+              junit runner android j3 android junit android j2 android j7 prime
+              android keyboard android keyboard settings android kitkat android
+              kunjappan android kikaider android kiosk mode android keyboard not
+              showing android kotlin apk android apk android games apk android
+              emulator apk android 11 apk android auto apk android apps apk
+              android tv apk android studio android logo android lost android
+              laughing emoji android location android latest version android
+              launcher android laptop android lollipop l'android l g android tv
+              l.a. noire android ctrl alt l android studio l/r balance android
+              app android l'application s'est arrêtée l-03k android 10 android
+              messages android messages app android music player android
+              messages for web android meme android meaning android market
+              android mp3 player my android my android phone won't charge my
+              android phone won't turn on my android phone won't ring my android
+              phone won't turn off my android version my android phone is slow
+              my android screen is black android notification sound android
+              notification android noise android not receiving texts android
+              news android not receiving texts from iphone android nougat
+              android notification history in android in android phone in
+              android studio what is a project template good for in android tag
+              is used for which purpose n android version in android studio in
+              android mini activities are also known as in android architecture
+              topmost layer is of android os android os versions android one
+              android oreo android or iphone android operating system names
+              android on pc android one phones do androids dream of electric
+              sheep do androids have facetime do android phones have facetime do
+              androids have airdrop do androids get emojis do android phones
+              have a wallet app do androids have a siri do androids have read
+              receipts android phones android pay android phones 2021 android
+              police android play store android phone cases android phone repair
+              near me android pie p android version p android system p android
+              wallpaper android p easter egg android p os android p download
+              android qr scanner android q easter egg android quality android qr
+              code scan android quick settings android quick share android qr
+              code setup android qwerty keyboard q android box q android box
+              update q android tv box q android 10 q android version q android
+              version name q android mobile price in pakistan q android box
+              remote not working android ringtone android recovery android robot
+              android recovery mode android ringtone meme android radio android
+              r easter egg android root r android gaming r androiddev r android
+              11 r android auto r android version r android studio r android tv
+              r androidthemes android sound android sound effect android
+              smartwatch android screenshot android studio download android
+              system webview android sdk is android better than iphone is
+              android open source is android linux is android 21 canon is
+              android samsung is android owned by google is android auto
+              wireless is android 12 out android tv android tablet android tv
+              box android to iphone transfer android tablets 2021 android tv
+              remote android tv setup android tv vs roku t android studio t
+              android tv box t android tv t android tablets t android mobile
+              android t v android t v box android t shirt android update android
+              usb android update june 2021 android update july 2021 android
+              unlock android update apps android users android update august
+              2021 uni android tool crack uni android tool uni android tool
+              crack 2021 uni android tool download uni android tool 25.02 crack
+              uni android tool supported models uni android tool price uni
+              android tool 9.01 crack android version android vs iphone android
+              version 11 android vs ios android vs iphone meme android version
+              10 android vs apple android video call android v iphone android v
+              apple android v10 android v smart tv android v9 android v11
+              android v8 android v.com/setup android watch android wallpaper
+              android watch samsung android watch phone android wear android
+              wifi calling android wallet android watch for women android
+              w/system.err big w android tablet log.w android big w android tv
+              box android w telewizorze android w tv android x86 android x86 iso
+              android xbox controller android x86 virtualbox android x86
+              emulator android xml android x86 vmware android xbox game pass x
+              android reader x android license status unknown x
+              android-studio-dir x android download x android app x android
+              phone x android-studio-dir =
+              /snap/android-studio/current/android-studio x android-studio-dir =
+              /path/to/android/studio android youtube android youtube adblock
+              android youtube downloader android yellow triangle when charging
+              android youtube picture in picture android your phone companion
+              android youtube app android youtube play in background android zte
+              android zoom android zero touch android zoom app android z flip
+              android zip file android z fold android zoom screen z android
+              phone z androida na ios z androidu na iphone z androidu na ios z
+              android na ios z androida na androida z android na iphone z
+              android game android 009 android 0 dbz android 009 characters
+              android 0 melee android 0-60 app android 0 smash android 0dp
+              android 0.7 *#0*# android 0 android 1 android 0 ninad android 0
+              ninad patil apk android 12 release date android 17 android 10
+              android 16 1 android device manager 1 android phone 1 android game
+              1 android minecraft 1 android version 1 android 2 whatsapp 1
+              android download for minecraft what is android one android 20
+              android 21 age android 22 android 21 figure android 21 dbz kakarot
+              android 21 voice actor android 2021 2 android setup apps 2 android
+              system running 2 android games room 2 android 1 whatsapp android 2
+              player games android 2 whatsapp android 2 din car stereo android 2
+              facebook apps android 3ds emulator android 35 android 3d scanner
+              android 3 way call android 30 android 3 button navigation android
+              3000 android 360 3 android phone 3 android apps 3 android buttons
+              3 android update samsung android 3 cameras android 3 launcher
+              android 4.4 android 4.0 android 4.4.2 android 4.4 phones android
+              4.2.2 android 4.0.4 android 4.4 download android 4.3 4 android
+              phone 4 android components 4 android smartphone android 4 download
+              android 4 youtube android 4 update android 5.0 android 5g phones
+              android 5.1 android 5.0 phones android 5.0 lollipop android52
+              android 5 release date android 5g 5 android phone 5 android tablet
+              5 android mobile 5 android version 5 android apps 5 android
+              download 5 android mtn hope 5 android mobile operating system
+              android 6.0 android 6.0 phones android 6.0 tablet android 6.0
+              marshmallow android 6.0 1 android 6.0 download android 6 dbz
+              android 69 6 android tablet 6 android phone 6 android development
+              tools 6 android update android 6 gam apk android 6 download
+              android 6 marshmallow android 6 api level android 7.0 android
+              7.1.1 android 7 dbz android 7.0 phones android 7 tablet android 7
+              dragon ball android 7.0 update android 73 7 android tablet 7
+              android tablet and keyboard 7 android car stereo 7 android phone 7
+              android auto 7 android touchscreen tablet with bluetooth 7 android
+              double din 7 android auto radio android 8 dragon ball android 8.0
+              android 8.1 android 8 release date android 8.0 phones android
+              8.0.0 android 8 download android 8 emulator 8 android tablet 8
+              android tablet 2021 8 android car stereo 8 android tablet with gps
+              8 android apps 8 android phone 8 android apps banned by google
+              android 9.0 android 9 pie android 9 easter egg android 9 root
+              android 9 vs 10 android 9 release date android 9.1 car stereo
+              android 9 dbz 9 android settings to turn off 9 android car stereo
+              9 android tablet 9 android head unit 9 android radio 9 android car
+              player 9 android version 9 android apps computer programming jobs
+              computer programming and analysis computer programming degree
+              computer programming fsw computer programming specialist salary
+              computer programming languages computer programming and analysis
+              salary computer programming classes computer programming
+              associate's degree computer programming associate's degree jobs
+              computer programming air force computer programming apprenticeship
+              computer programming associate's degree salary computer
+              programming and coding a computer programming language what is
+              computer programming language and examples what are the basic
+              computer programming languages what is programming and programming
+              language computer programming bootcamp computer programming books
+              computer programming basics computer programming bootcamp online
+              computer programming bachelor's degree computer programming
+              business computer programming beginner computer programming bls
+              b.tech computer programming b.s computer programming computer
+              programming b tech cse notes how to do b tech in computer science
+              computer programming certificate computer programming courses
+              computer programming colleges computer programming certificate
+              courses computer programming classes near me computer programming
+              careers computer programming certificate salary c computer
+              programming language c computer programming for beginners computer
+              c programming pdf computer c programming book pdf computer c
+              programming notes computer c programming mcq computer c
+              programming software download computer c programming code computer
+              programming definition computer programming degree online computer
+              programming degree salary computer programming degree near me
+              computer programming description computer programming degree jobs
+              computer programming def d in computer programming d-wave quantum
+              computer programming what is d in programming what is d in coding
+              what does d mean in programming computer programming examples
+              computer programming entry level computer programming engineer
+              computer programmer education computer programming experience
+              computer programming engineer salary computer programming
+              explained computer programmer education requirements e computer
+              programming language e learning computer programming computer
+              programming e balagurusamy computer programming e programming
+              language e computer programming for beginners computer programming
+              for kids computer programming for dummies computer programming for
+              beginners pdf computer programming fundamentals computer
+              programming free courses computer programming for high school
+              students computer programming games computer programming gif
+              computer programming games khan academy computer programming games
+              free computer programming glossary computer programming games for
+              beginners computer programming general computer programming groups
+              computer programming high school computer programming history
+              computer programming hard computer programming help computer
+              programming high school course description computer programming
+              history timeline computer programming hard to learn computer
+              programming hobby computer programming internships computer
+              programming is computer programming is quizlet computer
+              programming in spanish computer programming images computer
+              programming internships jobs computer programming interview
+              questions computer programming internships for high school
+              students i code computer programming i start computer programming
+              languages i computer programming i computer science programming i
+              function in computer programming what is coding and programming
+              computer programming jobs near me computer programming jobs salary
+              computer programming jobs entry level computer programming job
+              description computer programming job outlook computer programming
+              jokes computer programming jobs from home j sargeant reynolds
+              computer programming j sargeant reynolds classes computer
+              programming khan academy computer programming keywords computer
+              programming kits for adults computer programming ku computer
+              programming kya hai computer programming ktu notes computer
+              programming ktu syllabus computer programming kaise sikhe computer
+              programming languages list computer programming languages for
+              beginners computer programming logic computer programming lessons
+              computer programming languages designed for databases are called
+              computer programming laptops computer programming learning
+              computer programming major computer programming meaning computer
+              programming masters computer programming memes computer
+              programming major colleges computer programming masters degree
+              computer programming math requirements computer programming
+              magazine m in computer programming texas a&amp;m computer
+              programming u of m computer programming computer programming near
+              me computer programming naics code computer programming news
+              computer programming notes computer programming names computer
+              programming no degree computer programming night classes computer
+              programming navy n in computer programming character in computer
+              programming ashok n kamthane computer programming pdf what is n in
+              programming what is n in coding what does n mean in programming
+              n=n+1 programming computer programming online computer programming
+              online courses computer programming online degree computer
+              programming or computer science computer programming on the job
+              training computer programming online classes computer programming
+              or cyber security computer programming outlook o'reilly
+              programming computer vision with python pdf o que significa
+              computer programming computer programming programs computer
+              programming pdf computer programming python computer programming
+              programs near me computer programming practice computer
+              programming punch cards computer programming projects computer
+              programming portfolio examples computer programming questions
+              computer programming quotes computer programming quiz computer
+              programming quizlet computer programming questions in amcat
+              computer programming qualifications computer programming question
+              paper computer programming qualifications uk computer programming
+              requirements computer programming resume computer programming
+              related jobs computer programming rubber duck computer programming
+              rules computer programming reflection computer programming
+              research topics computer programming rubric r programming computer
+              requirements computer programmer salary computer programmer salary
+              florida computer programming schools computer programming schools
+              near me computer programming software computer programming summer
+              camp computer programming skills what is s computer programming
+              what is bs computer science what is bs computer science course
+              what is bs degree in computer science what is the best degree for
+              computer programming computer programming training computer
+              programming terms computer programming technology computer
+              programming tutor computer programming training near me computer
+              programming tools computer programming tutors near me computer
+              programming textbook u of t computer programming computer
+              programming t shirts computer programming t shirt design what is t
+              in programming what is introduction to computer programming what
+              is the basic of computer programming computer programming
+              university computer programming unlimited computer programming
+              uses computer programming used to be women's work computer
+              programming uf computer programming ucsd computer programming ucf
+              computer programming usc u of c computer programming u of u
+              computer programming computer programming vs computer science
+              computer programming vs coding computer programming vs computer
+              engineering computer programming vocabulary computer programming
+              vs web development computer programming vs cyber security computer
+              programming vendor/product certification computer programming vs
+              information technology v rajaraman computer programming in c pdf
+              computer programming video computer programming with matlab
+              computer programming web developer computer programming websites
+              computer programming wikipedia computer programming words computer
+              programming web developer salary computer programming what is it
+              computer programming without degree x ray computer programming
+              xerox computer programming computer programming youtube computer
+              programming york university computer programming years of school
+              computer programming youtube channels computer programmer yearly
+              salary computer programming year computer programming y2k computer
+              programming impacts your life computer programming zamel computer
+              programming courses in zimbabwe computer programming courses in
+              zambia computer programming jobs new zealand zybooks computer
+              programming answers computer programming courses in new zealand
+              zombie computer programming definition zombie computer programming
+              a-z computer programming languages what z computer programming
+              computer programming 01 computer programming using 00 basic 0 and
+              1 in computer programming what is 0 and 1 in computer how to code
+              with 0 and 1 what does 0 and 1 mean in computer why computer use 0
+              and 1 computer programming 101 computer programming 1 final exam
+              computer programming 101 the beginner's starting guide computer
+              programming 1 pdf computer programming 1 syllabus computer
+              programming 1 module computer programming 1 syllabus ched computer
+              programming 11 1 year computer programming course grade 1 computer
+              programming number 1 computer programming 1 what is computer
+              programming computer programming 2021 computer programming 2 years
+              course computer programming 2 syllabus computer programming 2
+              module computer programming 2 answer computer programming 2
+              syllabus philippines computer programming 2 final exam computer
+              programming 2 quizlet 2 year computer programming degree 2 year
+              computer programming degree salary 2 year computer programming
+              course name 2 computer programming languages 2 year computer
+              programming 2 types of computer programming language computer
+              programming 2 computer programming 2 syllabus ched computer
+              programming language 3 crossword clue computer programming
+              language 3 letters crossword clue computer programming chapter 3
+              quizlet computer programming for 3 year olds computer programming
+              for 3rd graders computer programming level 3 computer programming
+              test 3 computer programming sybcom sem 3 3 computer programming
+              languages 3 month computer programming course top 3 computer
+              programming languages mazda 3 computer programming sybcom sem 3
+              computer programming btec level 3 computer programming 3 pioneers
+              of computer programming 3 advantages of computer programming
+              computer programming 4k wallpaper computer programming 42 computer
+              programming level 4 pdf computer programming sims 4 computer
+              programming for 4 year olds computer programming chapter 4 quizlet
+              computer programming level 4 textbook pdf computer programming at
+              40 4 computer programming languages sims 4 computer programming
+              sims 4 computer programming skill cheat level 4 computer
+              programming sybcom sem 4 computer programming ncv level 4 computer
+              programming sims 4 child computer programming what are the 4 types
+              of programming language computer 5 programming language computer
+              programming for 5 year olds computer programming for 5th graders
+              the art of computer programming 5 computer systems programming
+              (cit 595) 5 computer programming jobs what are the 5 types of
+              programming language 5 computer programming languages top 5
+              computer programming languages top 5 computer programming website
+              5 steps in computer programming 5 generations of computer
+              programming languages 5 examples of computer programming language
+              5 types of computer programming languages computer programming for
+              6 year olds computer programming for 6th graders computer
+              programming for class 6 computer programming with visual basic 6
+              6201 computer programming activities how to get your kid into
+              computer programming is a 6 year old computer too old how to teach
+              coding to 6 year old 6 months computer programming course best 6
+              months computer course how many years to learn computer
+              programming can i learn coding in 6 months how long to learn
+              computer programming what is computer programming course computer
+              programming 7 year old computer programming in fortran 77
+              rajaraman pdf download computer programming in fortran 77 by v.
+              rajaraman computer programming in fortran 77 pdf computer
+              programming in fortran 77 computer programming for class 7
+              computer programming in the 70s computer programming for year 7 is
+              a 7 year old computer old is a 7 year old computer worth fixing is
+              7 years old for a computer how to teach programming to 7 year old
+              computer programming for 8 year old computer programming for 8th
+              graders computer programming in the 80s computer programming for
+              class 8 computer programming for grade 8 computer programming
+              languages in the 80s 8051 computer programming is an 8 year old
+              computer old 8 bit computer programming grade 8 computer
+              programming computer programming for 9 year olds computer
+              programming for 9th grade computer programming grade 9 computer
+              programming class 9 computer programming in fortran 90 and 95 pdf
+              computer programming in fortran 90 and 95 computer programming in
+              fortran 90 and 95 pdf download computer programming in fortran 90
+              and 95 pdf rajaraman class 9 computer programming 9 year old
+              computer programming software development life cycle software
+              development engineer software development engineer amazon salary
+              software development manager software development company software
+              development process software development methodologies software
+              development jobs software development agreement software
+              development apprenticeship software development agency software
+              development agile software development analyst software
+              development architecture software development associate degree
+              software development approaches a software development methodology
+              is a framework for which of the following a software development
+              company wants to reorganize a software development company a
+              software development kit for ss7 a software development company
+              specializes in being software development bootcamp software
+              development best practices software development books software
+              development business software development blogs software
+              development bootcamp online software development basics software
+              development best practices 2021 b.voc software development b voc
+              software development syllabus pdf b.voc software development vs
+              bca b voc software development colleges in kerala b.voc software
+              development salary b voc software development job opportunities
+              b.voc software development question paper b.voc software
+              development and system administration software development cycle
+              software development courses software development certifications
+              software development costs software development companies near me
+              software development contract software development capitalization
+              c software development jobs c sharp software development tri c
+              software development c programming software development c spire
+              software development pathway c/c++ software development with
+              eclipse pdf c-kern software development gmbh software development
+              degree software development director software development
+              definition software development director salary software
+              development documentation software development degree online
+              software development design patterns software development degree
+              vs computer science d software development life cycle r&amp;d
+              software development d.voc software development r&amp;d software
+              development hmrc asil d software development d voc software
+              development syllabus pdf r&amp;d software development ato r&amp;d
+              credit software development software development engineer salary
+              software development engineer in test software development
+              engineer ii software development engineer amazon software
+              development engineer ii amazon salary software development
+              engineer 2 amazon salary e software development life cycle e
+              wallet software development e commerce software development e
+              commerce software development services e learning software
+              development e.on software development srl s.r.e software
+              development and network e content development software software
+              development fundamentals software development framework software
+              development for dummies software development for beginners
+              software development freelance software development flowchart
+              software development fields software development flow f(x)
+              software development f-35 software development f j software
+              development software development guidelines software development
+              glossary software development grants software development gigs
+              software development gantt chart software development governance
+              software development goals software development gcu software
+              development hourly rate software development history software
+              development house software development hierarchy software
+              development history timeline software development healthcare
+              software development humor software development happy path h in
+              software development stands for happiness h in software
+              development h&amp;t software development h&amp;s software
+              development software development internship software development
+              intern software development interview questions software
+              development industry software development icon software
+              development in test software development in spanish software
+              development internships near me i software development company i
+              hate software development what i software development software
+              development jobs entry level software development job titles
+              software development jobs remote software development jokes
+              software development job description software development job
+              growth software development jargon j-link software and development
+              pack software development j software development kit software
+              development kpi software development kit example software
+              development kanban software development kpi metrics software
+              development keywords software development kit download software
+              development kanban board examples software development life cycle
+              phases software development life cycle models software development
+              life cycle agile software development languages software
+              development life cycle pdf software development life cycle
+              methodologies software development life cycle interview questions
+              l software development life cycle software development l software
+              development manager salary software development manager amazon
+              salary software development models software development manager
+              job description software development manager interview questions
+              software development manager jobs m.voc software development
+              o&amp;m software development t&amp;m software development m.voc
+              software development colleges in kerala m voc software development
+              ipu m tech in software development texas a&amp;m software
+              development software development m&amp;a software development
+              naics code software development news software development naics
+              software development near me software development nda software
+              development newsletter software development nashville software
+              development niches lightning software development n-tier software
+              development architectures craig n dave software development
+              software development n software development online degree software
+              development organizational structure software development on ipad
+              software development outsourcing companies software development on
+              chromebook software development online courses software
+              development on ipad pro software development org chart o software
+              development life cycle o'reilly software development o'reilly
+              software development salary survey a program dedicated to software
+              development is o'reilly real world software development big o
+              notation software development software development o que é
+              software development plan software development process steps
+              software development principles software development programs
+              software development phases software development project
+              management software development projects p&amp;id development
+              software 4 p's of software development software development quotes
+              software development questions software development qa software
+              development quality metrics software development quote template
+              software development qa best practices software development qa
+              process software development quiz infoq software development
+              software development requirements software development resume
+              software development roles software development roadmap software
+              development risks software development requirements document
+              software development resume examples software development
+              recruiters r&amp;d team software development r&amp;d claim
+              software development r&amp;d tax credits software development
+              software developer salary software development skills software
+              development stages software development security software
+              development standards software development sic code software
+              development steps software development spike software development
+              tools software development training software development team
+              structure software development trends 2021 software development
+              terms software development testing software development
+              terminology software development timeline i.t software development
+              t-mobile software development manager t nagar software development
+              companies t shirt size software development bt &amp; t software
+              development srl what does an it software developer do software
+              development user stories software development using python
+              software development unit testing software development use case
+              software development uat software development union software
+              development use case template software development unemployment
+              rate u of u software development software development vs software
+              engineering software development vs web development software
+              development vs computer science software development vs cyber
+              security software development vs programming software development
+              vs data science software development v model software development
+              velocity v software development model v cycle software development
+              v model software development life cycle v model software
+              development example v model software development advantages and
+              disadvantages v model software development pdf v model for
+              software development is used when v model for software development
+              is used when mcq software development workflow software
+              development waterfall software development wgu software
+              development with python software development wireframe software
+              development waterfall model software development website software
+              development wikipedia w model software development software
+              development xp software development xkcd software development kit
+              xilinx software development pool xero software development budget
+              xls android software development xda software development
+              estimation template xls software development kit in xcode directx
+              software development kit x ray software development spacex
+              software development spacex software development process surface
+              pro x software development yum groupinstall x software development
+              mac os x development software software development youtube
+              software development youtube channels software development yagni
+              software development york university software development york
+              software developer yearly salary software development youtube
+              video best software development youtube channels y model software
+              development software development zimbabwe software development
+              zagreb software development new zealand software development
+              engineer zillow salary software development fundamentals zybooks
+              software development companies in zimbabwe software development
+              companies in zambia software development courses in zimbabwe
+              business software development campus 02 phase 0 software
+              development software development 101 software development 12
+              factor software development 101 pdf software development 1440p vs
+              4k software development 1997 software development 17 development
+              software 1 question papers development software 1 pdf 1. software
+              development director no.1 software development company in india
+              sil 1 software development 1 what is software development software
+              development 2021 software development 2022 software development
+              2021 trends software development 2025 software development 2020
+              software development 2019 exam software development 2.0 software
+              development 2 year degree 2 software product development companies
+              java 2 software development kit soc 2 software development concept
+              2 software development kit hololens 2 software development sil 2
+              software development java 2 software development kit free download
+              level 2 software development software development 3/4 software
+              development 3 amigos software development 3 tier architecture
+              software development 3 ways software development manager 3 amazon
+              salary software development engineer 3 amazon salary software
+              development engineer 3 software development engineer 3 flipkart
+              salary 3 software development methodologies 3 software development
+              life cycle models 3 amigos software development level 3 software
+              development apprenticeship level 3 software development technician
+              module 3 software development and design exam level 3 software
+              development technician apprenticeship cert 3 software development
+              software development 4k monitor development software 4 software
+              development level 4 apprenticeship software development after 40
+              software development engineer 4 software development engineer 4
+              flipkart salary software development in 44ad 4 software
+              development methodologies 4 software development variables 4
+              software development phases 4 software development life cycle itil
+              4 software development and management level 4 software development
+              apprenticeship cert 4 software development sil 4 software
+              development software development 559 mohawk software development
+              500 assignment answers software development 500 software
+              development level 5 software development nqf 5 software
+              development life cycle 5 phases software development nqf level 5
+              software development engineer (level 5) 5 software development
+              life cycle 5 software development principles 5 software
+              development models 5 whys software development top 5 software
+              development companies top 5 software development languages top 5
+              software development methodology 5 phases software development
+              life cycle software development 60 software development plan 62304
+              software development level 6 software development process 6 steps
+              software development process 62304 software development life cycle
+              6 phases software development plan template 62304 software
+              development plan iec 62304 6 month software development course
+              level 6 software development apprenticeship top 6 software
+              development methodologies level 6 software development 6 sigma
+              software development unit 6 software development assignment 2 unit
+              6 software development 6 stages of software development process
+              lean software development 7 principles lean software development 7
+              wastes software development level 7 software development level 7
+              gmit software development life cycle 7 phases software development
+              kit windows 7 qnx software development platform 7.0 qnx software
+              development platform 7.0 download windows 7 software development
+              kit 7 wastes software development 7 steps software development
+              life cycle level 7 software development 7 lean software
+              development principles 7 phases of software development life cycle
+              surface pro 7 software development 7 wastes of software
+              development poppendieck software development 80 20 rule software
+              development cycle in 8051 microcontroller windows software
+              development kit 8.1 cit software development level 8 8 software
+              development models gmit software development level 8 8051 software
+              development tools java software development kit 8 domain 8.
+              software development security java 8 software development kit
+              level 8 software development cissp domain 8 software development
+              security 8 wastes in software development java ee 8 software
+              development kit java se 8 software development kit software
+              development 90 software development 99designs software development
+              fundamentals (98-361) software development iso 9001 software
+              development fundamentals 98-361 pdf software development logo
+              99designs software development fundamentals exam 98-361 answers
+              software development process iso 9001 cyber security salary cyber
+              security jobs cyber security certifications cyber security analyst
+              cyber security degree cyber security analyst salary cyber security
+              stocks cyber security engineer salary cyber security analyst jobs
+              cyber security associate degree cyber security architect cyber
+              security apprenticeship cyber security air force cyber security
+              associate degree salary a cyber security analyst a cyber security
+              salary a+ cyber security a+ cyber security certification a cyber
+              security plan a cyber security expert a cyber security policy a
+              cyber security manager cyber security bootcamp cyber security
+              bachelor degree cyber security books cyber security bootcamp near
+              me cyber security business cyber security basics cyber security
+              bachelor degree salary cyber security bootcamp reddit b cyber
+              security and behaviour b.sc cyber security colleges in tamilnadu b
+              tech cyber security syllabus pdf b tech cyber security syllabus
+              b.sc cyber security colleges in coimbatore b.tech cyber security
+              colleges in chennai b.sc cyber security eligibility b tech cyber
+              security salary cyber security companies cyber security courses
+              cyber security classes cyber security consultant cyber security
+              career cyber security consultant salary cyber security
+              certifications online tri c cyber security c dac cyber security c
+              programming cyber security c level cyber security c language cyber
+              security c-suite cyber security training ctpat cybersecurity
+              policy c span cyber security cyber security definition cyber
+              security degree online cyber security degree salary cyber security
+              description cyber security degree near me cyber security degree
+              worth it cyber security director salary r&amp;d cyber security
+              d.moat cyber security solution d-biz cyber security phd cyber
+              security g+d cyber security d-wave cyber security u of d cyber
+              security banca d'italia cyber security cyber security etf cyber
+              security engineer cyber security entry level jobs cyber security
+              entry level salary cyber security education cyber security
+              engineer jobs cyber security entry level e careers cyber security
+              b.e cyber security colleges in tamilnadu b.e cyber security e
+              learning cyber security e careers cyber security reviews e
+              commerce cyber security b.e cyber security syllabus e careers
+              cyber security price cyber security firms cyber security
+              fundamentals cyber security free training cyber security forensics
+              cyber security free course cyber security framework f secure cyber
+              security f-secure cyber security academy f-secure cyber security
+              competition malaysia 2020 f-secure cyber security sauna f-secure
+              cyber security limited companies house f-secure cyber security inc
+              f-35 cyber security f-secure cyber security (pty) ltd cyber
+              security google cyber security government jobs cyber security
+              grants 2021 cyber security graduate program cyber security growth
+              rate cyber security games cyber security google salary cyber
+              security google certificate l&amp;g cyber security ucits etf
+              l&amp;g cyber security ucits etf holdings l&amp;g cyber security
+              etf share price l&amp;g cyber security etf fact sheet g suite
+              cyber security l&amp;g cyber security ucits etf companies p&amp;g
+              cyber security l&amp;g cyber security stock cyber security hourly
+              pay cyber security hours cyber security help cyber security hack
+              cyber security hcc cyber security hiring cyber security hacker
+              cyber security high school dr-h cyber security h&amp;m cyber
+              security u of h cyber security h&amp;r block cyber security cyber
+              security h cyber security internships cyber security interview
+              questions cyber security insurance cyber security investigator
+              cyber security information cyber security indeed cyber security
+              income cyber security internship near me bachelor i cyber security
+              what i cyber security master i cyber security i school cyber
+              security what can i do with a bachelor degree in cyber security do
+              i need a bachelor's degree for cyber security what jobs can i get
+              with a bachelor's in cyber security cyber security jobs near me
+              cyber security jobs salary cyber security job description cyber
+              security jobs entry level cyber security jobs houston cyber
+              security jobs remote cyber security jobs atlanta j sarge cyber
+              security j&amp;j cyber security j c cyber security j.p. morgan
+              cyber security salary j p morgan cyber security j p morgan cyber
+              security jobs thomas j mowbray cyber security j.p. morgan chase
+              cyber security jobs cyber security keywords list cyber security
+              kennesaw state cyber security knowledge cyber security kill chain
+              cyber security knoxville tn cyber security knowledge check cyber
+              security kansas city k-cyber security challenge k-state cyber
+              security program k-12 cyber security u.k. national cyber security
+              centre cyber security law cyber security lawyer salary cyber
+              security learning cyber security logo cyber security language
+              cybersecurity lawyer cyber security license cyber security labs
+              l&amp;g cyber security ucits etf (ispy) l&amp;t cyber security
+              l&amp;g cyber security holdings cyber security masters cyber
+              security major cyber security manager salary cyber security
+              meaning cyber security masters programs cyber security mos cyber
+              security masters salary cyber security meme m cyber security uon m
+              tech cyber security m tech cyber security syllabus m.sc cyber
+              security colleges in tamilnadu m.sc cyber security m tech cyber
+              security colleges in tamilnadu m tech cyber security iit m.sc
+              cyber security in chennai cyber security news cyber security news
+              today cyber security near me cyber security no experience cyber
+              security news headlines cyber security news sites cyber security
+              no degree cyber security navy cyber security online degree cyber
+              security online cyber security officer cyber security online
+              certificate cyber security officer salary cyber security one word
+              or two cyber security or software development cyber security or
+              cybersecurity o'reilly cyber security o'reilly cyber security
+              books o'shea cyber security u of o cyber security cyber security
+              o'reilly pdf cozen o'connor cyber security eric o'neill cyber
+              security patrick o'reilly cyber security cyber security programs
+              cyber security pay cyber security programs near me cyber security
+              professional cyber security podcasts cyber security professional
+              salary cyber security positions cyber security project manager
+              salary s&amp;p cyber security s&amp;p kensho cyber security index
+              s&amp;p global cyber security p g diploma in cyber security cyber
+              security questions cyber security qualifications cyber security
+              questions to ask cyber security quotes cyber security quiz cyber
+              security qualifications needed cyber security quizlet cyber
+              security quotes 2021 q&amp;a on cyber security q_perior cyber
+              security what questions should i ask about cyber security cyber
+              security requirements cyber security remote jobs cyber security
+              resume cyber security roles cyber security risk cyber security
+              roadmap cyber security recruiters cyber security risk management
+              r&amp;s cyber security b&amp;r cyber security gsm-r cyber security
+              r-tech cyber security u of r cyber security bootcamp r programming
+              for cyber security cyber security r&amp;d jobs cyber security
+              salary texas cyber security salary florida cyber security schools
+              cyber security specialist cyber security salary new york cyber
+              security salary california u.s. cyber security strategy u.s. cyber
+              security b.s. cyber security what is cyber security u.s. cyber
+              security strategy 2020 m.s cyber security salary s-rm cyber
+              security u.s. cyber security market size cyber security training
+              cyber security training online cyber security technician salary
+              cyber security trade school cyber security training courses cyber
+              security training near me cyber security training for beginners
+              cyber security technician at&amp;t cyber security t mobile cyber
+              security at&amp;t cyber security jobs t mobile cyber security jobs
+              t mobile cyber security internship t mobile cyber security salary
+              at&amp;t cyber security solutions cyber security university cyber
+              security ucf cyber security utsa cyber security usf cyber security
+              udemy cyber security unemployment rate cyber security us army
+              cyber security university of houston york u cyber security woz u
+              cyber security u of 'm cyber security bootcamp reviews wash u
+              cyber security cyber security vs computer science cyber security
+              vs software engineering cyber security vs data science cyber
+              security vs information security cyber security vs software
+              engineering salary cyber security vs information technology cyber
+              security vs coding cyber security vs network security delta v
+              cyber security gen v cyber security cybersecurity vs information
+              security emerson delta v cyber security computer forensics vs
+              cyber security cyber security work from home cyber security
+              without a degree cyber security what do they do cyber security
+              wattson cyber security work from home jobs cyber security what is
+              it cyber security wallpaper cyber security wage w cyber security
+              policy cyber security xdr cyberx security station x cyber security
+              global x cyber security etf station x cyber security course
+              station x cyber security reviews station x cyber security course
+              review x force cyber security nathan x cyber security cyber
+              security yearly salary cyber security youtube cyber security years
+              of school cyber security youtube channels cyber security youtube
+              channels reddit cyber security yellow team cyber security york
+              university cyber security york ey cyber security ey cyber security
+              consultant salary ey cyber security salary ey cyber security jobs
+              ey cyber security analyst salary ey cyber security senior manager
+              salary ey cyber security internship ey cyber security manager
+              salary cyber security zero trust cyber security zero trust model
+              cyber security zoom cyber security zero day cyber security zoom
+              background cyber security zero to hero cyber security zero day
+              exploits cyber security zambia z plus cyber security cyber
+              security 01 cyber security jobs with 0 experience cyber security
+              foundation (edu-010) pta cyber security advisory 072 patient 0
+              cyber security cybersecurity 101 cyber security 101 course cyber
+              security 101 pdf cyber security 101 brute force cyber security 10
+              steps cyber security 101 with joe and larry cyber security 101 for
+              dummies #1 cyber security company #1 cyber security school cyber 1
+              security ab sentinel 1 cyber security number 1 cyber security
+              company 1 year cyber security masters tier 1 cyber security
+              analyst 1 year cyber security masters in canada cyber security
+              2021 cyber security 2 year degree cyber security 2 year degree
+              salary cyber security 2021 answers cyber security 202 cyber
+              security 2021 news cyber security 24/7 cyber security 2021 trends
+              2 year cyber security degree 2 year cyber security degree salary
+              level 2 cyber security 2 year cyber security degree in canada soc
+              2 cyber security tier 2 cyber security analyst cert 2 cyber
+              security tier 2 cyber security analyst salary cyber security 3
+              month course cyber security 3x etf cyber security 3 pillars cyber
+              security 3 year roadmap cyber security 360 cyber security 365
+              cyber security 3 lines of defense cyber security 3d printing 3
+              cyber security domains 3 cyber security tools 3 cyber security
+              stocks level 3 cyber security apprenticeship cert 3 cyber security
+              level 3 cyber security top 3 cyber security threats top 3 cyber
+              security companies cyber security 401k cyber security 4k wallpaper
+              cyber security 48b market cap cyber security 4 year degree cyber
+              security 4th industrial revolution cyber security 4.0 cyber
+              security 4k cyber security 4tu 4 cyber security threats cert 4
+              cyber security level 4 cyber security apprenticeship big 4 cyber
+              security cert 4 cyber security jobs level 4 cyber security level 4
+              cyber security technologist level 4 cyber security technologist
+              apprenticeship cyber security 5 pillars cyber security 5g cyber
+              security 501 exam questions cyber security 5 year plan cyber
+              security 500 cyber security 5 key principles cyber security 5
+              steps cyber security 501 5 cyber security jobs 5 cyber security
+              threats 5 cybersecurity framework 5 cybersecurity tips 5
+              cybersecurity threats to be aware of in 2020 5 cyber security
+              risks 5 cybersecurity trends 5 cybersecurity measures cyber
+              security 6 month course cyber security 601 cyber security 6 months
+              training cyber security 60 minutes cyber security 62443 cyber
+              security 6 trillion cyber security 6 months cyber security 6 steps
+              6 month cyber security course covered 6 cyber security level 6
+              cyber security apprenticeships covered 6 cyber security review
+              covered 6 cyber security academy level 6 cyber security 6 figure
+              cyber security jobs covered 6 cyber security reddit cyber security
+              7 layers cyber security 71 cyber security 7 news cyber security 7
+              tips cyber security 7 tools cyber security chapter 7 quiz answers
+              cyber security in 7 minutes cyber security class 7 7 cyber
+              security layers level 7 cyber security rapid7 cyber security 7
+              news cyber security pcs 7 cyber security viq7 cyber security
+              windows 7 cyber security 24/7 cyber security cyber security 8
+              domains cyber security 8570 cyber security 802.1x cyber security
+              80s cyber security 84 cyber security essential 8 cyber security
+              chapter 8 quiz answers cyber security nist 800-171 layer 8 cyber
+              security team 8 cyber security 8 week cyber security course level
+              8 cyber security chapter 8 cyber security essentials essential 8
+              cyber security controls 8 domains of cyber security chapter 8
+              cyber security cyber security class 9 cyber security class 9 notes
+              cyber security in 90 minutes cyber security class 9th cyber
+              security framework 9.2 cyber security evaluation tool 9.2
+              9elements cyber security is cyber security a 9-5 job 9 cyber
+              security threats nine cyber security section 9 cyber security root
+              9 cyber security channel 9 news cyber security 9 elements cyber
+              security </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Contact -->
+    <section id="contact" class="tm-section-pad-top tm-parallax-2">
+      <div class="container tm-container-contact">
+        <div class="row">
+          <div class="text-center col-12">
+            <h2 class="tm-section-title mb-4">Contact Us</h2>
+            <br>
+          </div>
+          <div class="col-sm-12 col-md-6"><strong>#Hashtags :</strong>
+            &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; #cybersecurity
+            #cybersecurityawareness #cybersecuritythreats&nbsp;
+            #cybersecurityengineer #cybersecurityconsultant
+            #cybersecuritytraining #cybersecurityexperts
+            #cybersecurityexpert&nbsp;&nbsp; #cybersecurityanalyst&nbsp;
+            #computerscience #computerscienceengineering #computersciences
+            <div id="copy-hashtags" class="copy-hashtags">
+              <meta http-equiv="content-type" content="text/html; charset=utf-8">
+              #hack #hacks #hacker #hacking #hacked #hackers #hackathon&nbsp;
+              #hacktivist #hackerman </div>
+          </div>
+          <div class="col-sm-12 col-md-6">
+            <div class="contact-item"> <a rel="nofollow" href="https://discord.gg/BbyCB82M4y"
+                class="item-link"> <span class="mb-0">Chat On Discord&nbsp; </span><span
+                  class="mb-0"></span></a><a href="https://discord.gg/BbyCB82M4y">
+              </a><a href="https://discord.gg/BbyCB82M4y">gbmXdev#5636&nbsp;</a>
+            </div>
+            <div class="contact-item"> <a rel="nofollow" href="mailto:george@gbmxdev.com"
+                class="item-link"> <span class="mb-0">george@gbmxdev.com</span>
+              </a> </div>
+            <div class="contact-item"> <a rel="nofollow" href="tel:0100200340"
+                class="item-link"> <span class="mb-0">Phone: (3two1)
+                  3four4-0two98</span></a></div>
+            <div class="contact-item"><a rel="nofollow" href="tel:0100200340" class="item-link"><br>
+              </a><a href="https://cash.app/$gbmxdev">Cash app (contact for
+                paypal}</a><a rel="nofollow" href="tel:0100200340" class="item-link">
+              </a> </div>
+            <div class="contact-item">&nbsp;</div>
+          </div>
+        </div>
+        <!-- row ending --> </div>
+      <footer class="text-center small tm-footer">
+        <p class="mb-0"> Copyright © 2021 gbmXdev, LLC . <a rel="nofollow" href="https://www.tooplate.com"
+            title="HTML templates"></a></p>
+      </footer>
+    </section>
+    <script src="js/jquery-1.9.1.min.js"></script>
+    <script src="slick/slick.min.js"></script>
+    <script src="magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="js/easing.min.js"></script>
+    <script src="js/jquery.singlePageNav.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+
+      function getOffSet(){
+        var _offset = 450;
+        var windowHeight = window.innerHeight;
+
+        if(windowHeight > 500) {
+          _offset = 400;
+        } 
+        if(windowHeight > 680) {
+          _offset = 300
+        }
+        if(windowHeight > 830) {
+          _offset = 210;
+        }
+
+        return _offset;
+      }
+
+      function setParallaxPosition($doc, multiplier, $object){
+        var offset = getOffSet();
+        var from_top = $doc.scrollTop(),
+          bg_css = 'center ' +(multiplier * from_top - offset) + 'px';
+        $object.css({"background-position" : bg_css });
+      }
+
+      // Parallax function
+      // Adapted based on https://codepen.io/roborich/pen/wpAsm        
+      var background_image_parallax = function($object, multiplier, forceSet){
+        multiplier = typeof multiplier !== 'undefined' ? multiplier : 0.5;
+        multiplier = 1 - multiplier;
+        var $doc = $(document);
+        // $object.css({"background-attatchment" : "fixed"});
+
+        if(forceSet) {
+          setParallaxPosition($doc, multiplier, $object);
+        } else {
+          $(window).scroll(function(){          
+            setParallaxPosition($doc, multiplier, $object);
+          });
+        }
+      };
+
+      var background_image_parallax_2 = function($object, multiplier){
+        multiplier = typeof multiplier !== 'undefined' ? multiplier : 0.5;
+        multiplier = 1 - multiplier;
+        var $doc = $(document);
+        $object.css({"background-attachment" : "fixed"});
+        
+        $(window).scroll(function(){
+          if($(window).width() > 768) {
+            var firstTop = $object.offset().top,
+                pos = $(window).scrollTop(),
+                yPos = Math.round((multiplier * (firstTop - pos)) - 186);              
+
+            var bg_css = 'center ' + yPos + 'px';
+
+            $object.css({"background-position" : bg_css });
+          } else {
+            $object.css({"background-position" : "center" });
+          }
+        });
+      };
+      
+      $(function(){
+        // Hero Section - Background Parallax
+        background_image_parallax($(".tm-parallax"), 0.30, false);
+        background_image_parallax_2($("#contact"), 0.80);   
+        background_image_parallax_2($("#testimonials"), 0.80);   
+        
+        // Handle window resize
+        window.addEventListener('resize', function(){
+          background_image_parallax($(".tm-parallax"), 0.30, true);
+        }, true);
+
+        // Detect window scroll and update navbar
+        $(window).scroll(function(e){          
+          if($(document).scrollTop() > 120) {
+            $('.tm-navbar').addClass("scroll");
+          } else {
+            $('.tm-navbar').removeClass("scroll");
+          }
+        });
+        
+        // Close mobile menu after click 
+        $('#tmNav a').on('click', function(){
+          $('.navbar-collapse').removeClass('show'); 
+        })
+
+        // Scroll to corresponding section with animation
+        $('#tmNav').singlePageNav({
+          'easing': 'easeInOutExpo',
+          'speed': 600
+        });        
+        
+        // Add smooth scrolling to all links
+        // https://www.w3schools.com/howto/howto_css_smooth_scroll.asp
+        $("a").on('click', function(event) {
+          if (this.hash !== "") {
+            event.preventDefault();
+            var hash = this.hash;
+
+            $('html, body').animate({
+              scrollTop: $(hash).offset().top
+            }, 600, 'easeInOutExpo', function(){
+              window.location.hash = hash;
+            });
+          } // End if
+        });
+
+        // Pop up
+        $('.tm-gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          gallery: { enabled: true }
+        });
+
+        $('.tm-testimonials-carousel').slick({
+          dots: true,
+          prevArrow: false,
+          nextArrow: false,
+          infinite: false,
+          slidesToShow: 3,
+          slidesToScroll: 1,
+          responsive: [
+            {
+              breakpoint: 992,
+              settings: {
+                slidesToShow: 2
+              }
+            },
+            {
+              breakpoint: 768,
+              settings: {
+                slidesToShow: 2
+              }
+            }, 
+            {
+              breakpoint: 480,
+              settings: {
+                  slidesToShow: 1
+              }                 
+            }
+          ]
+        });
+
+        // Gallery
+        $('.tm-gallery').slick({
+          dots: true,
+          infinite: false,
+          slidesToShow: 5,
+          slidesToScroll: 2,
+          responsive: [
+          {
+            breakpoint: 1199,
+            settings: {
+              slidesToShow: 4,
+              slidesToScroll: 2
+            }
+          },
+          {
+            breakpoint: 991,
+            settings: {
+              slidesToShow: 3,
+              slidesToScroll: 2
+            }
+          },
+          {
+            breakpoint: 767,
+            settings: {
+              slidesToShow: 2,
+              slidesToScroll: 1
+            }
+          },
+          {
+            breakpoint: 480,
+            settings: {
+              slidesToShow: 1,
+              slidesToScroll: 1
+            }
+          }
+        ]
+        });
+      });
+    </script>
+  </body>
+</html>

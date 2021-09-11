@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo cryptsetup luksOpen ~/.data crypt
+sudo mount /dev/mapper/crypt ~/crypt
